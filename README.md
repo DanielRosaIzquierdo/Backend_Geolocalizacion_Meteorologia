@@ -6,10 +6,9 @@ Además, la aplicación guarda un historial de las búsquedas realizadas en un a
 
 ## Características
 
-- **Búsqueda por nombre de ciudad**: Obtén el clima de una ciudad proporcionando su nombre.
-- **Geolocalización automática**: Obtén el clima basado en tu ubicación actual.
-- **Interfaz interactiva**: Utiliza Inquirer para facilitar la navegación a través de la consola.
-- **Persistencia de historial**: Guarda las búsquedas realizadas en un archivo JSON, permitiendo al usuario revisar las consultas previas.
+- **Búsqueda por nombre de ciudad**: obtén el clima de una ciudad proporcionando su nombre.
+- **Interfaz interactiva**: utiliza Inquirer para facilitar la navegación a través de la consola.
+- **Persistencia de historial**: la aplicación guarda las búsquedas realizadas en un archivo JSON, permitiendo al usuario revisar las consultas previas.
 
 ## Instalación
 
