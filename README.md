@@ -1,6 +1,6 @@
 # Aplicación de consola para geolocalización y meteorología: Clima en Tiempo Real
 
-Aplicación de consola que integra dos APIs: una de geolocalización y otra de meteorología. Permite al usuario obtener información sobre el clima de una ciudad específica a partir de su nombre o ubicación. Se utiliza la librería [Inquirer](https://www.npmjs.com/package/inquirer) para una interfaz de usuario interactiva, que guía al usuario a través del proceso de consulta de datos en la consola.
+Aplicación de consola que integra dos APIs: una de geolocalización y otra de meteorología. Permite al usuario obtener información sobre el clima de una ciudad específica a partir de su nombre o ubicación. Se utiliza la librería [Inquirer](https://www.npmjs.com/package/inquirer) para una interfaz de usuario interactiva.
 
 Además, la aplicación guarda un historial de las búsquedas realizadas en un archivo JSON, permitiendo al usuario revisar consultas pasadas.
 
