@@ -12,7 +12,7 @@ Además, la aplicación guarda un historial de las búsquedas realizadas en un a
 
 ## Instalación
 
-1. Clona este repositorio:
+Clona este repositorio:
    ```bash
    git clone https://github.com/DanielRosaIzquierdo/Backend_Geolocalizacion_Meteorologia.git
    
