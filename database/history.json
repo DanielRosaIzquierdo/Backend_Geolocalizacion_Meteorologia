@@ -1,0 +1,22 @@
+[
+    {
+        "id": "joint_municipality.4769",
+        "city": "Londres, Reino Unido",
+        "lat": "51.507445738516466",
+        "lon": "-0.12776535004377365",
+        "temp": "7.27",
+        "temp_min": "6.41",
+        "temp_max": "8.39",
+        "weather": "muy nuboso"
+    },
+    {
+        "id": "municipality.85365",
+        "city": "Martovce, Eslovaquia",
+        "lat": "47.856603595220804",
+        "lon": "18.12573753297329",
+        "temp": "7.84",
+        "temp_min": "7.84",
+        "temp_max": "7.84",
+        "weather": "nubes"
+    }
+]
