@@ -2,8 +2,6 @@
 
 Aplicación de consola que integra dos APIs: una de geolocalización y otra de meteorología. Permite al usuario obtener información sobre el clima de una ciudad específica a partir de su nombre o ubicación. Se utiliza la librería [Inquirer](https://www.npmjs.com/package/inquirer) para una interfaz de usuario interactiva.
 
-Además, la aplicación guarda un historial de las búsquedas realizadas en un archivo JSON, permitiendo al usuario revisar consultas pasadas.
-
 ## Características
 
 - **Búsqueda por nombre de ciudad**: obtén el clima de una ciudad proporcionando su nombre.
